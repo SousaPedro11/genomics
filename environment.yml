@@ -1,4 +1,4 @@
-name: /home/pedro/PythonProjects/genomics/env
+name: /home/pedro/PythonProjects/genomics/venv
 channels:
   - defaults
 dependencies:
@@ -18,9 +18,9 @@ dependencies:
   - gstreamer=1.14.0=h28cd5cc_2
   - icu=58.2=he6710b0_3
   - intel-openmp=2020.2=254
-  - ipython=7.19.0=py38hb070fc8_0
+  - ipython=7.19.0=py38hb070fc8_1
   - ipython_genutils=0.2.0=pyhd3eb1b0_1
-  - jedi=0.18.0=py38h06a4308_0
+  - jedi=0.17.2=py38h06a4308_1
   - jpeg=9b=h024ee3a_2
   - kiwisolver=1.3.0=py38h2531618_0
   - lcms2=2.11=h396b838_0
@@ -55,7 +55,7 @@ dependencies:
   - pip=20.3.3=py38h06a4308_0
   - prompt-toolkit=3.0.8=py_0
   - ptyprocess=0.7.0=pyhd3eb1b0_2
-  - pygments=2.7.3=pyhd3eb1b0_0
+  - pygments=2.7.4=pyhd3eb1b0_0
   - pyparsing=2.4.7=py_0
   - pyqt=5.9.2=py38h05f1152_4
   - python=3.8.5=h7579374_1
@@ -63,7 +63,7 @@ dependencies:
   - pytz=2020.5=pyhd3eb1b0_0
   - qt=5.9.7=h5867ecd_1
   - readline=8.0=h7b6447c_0
-  - setuptools=51.0.0=py38h06a4308_2
+  - setuptools=51.1.2=py38h06a4308_4
   - sip=4.19.13=py38he6710b0_0
   - six=1.15.0=py38h06a4308_0
   - sqlite=3.33.0=h62c20be_0
@@ -75,4 +75,4 @@ dependencies:
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.5=h9ceee32_0
-prefix: /home/pedro/PythonProjects/genomics/env
+prefix: /home/pedro/PythonProjects/genomics/venv
